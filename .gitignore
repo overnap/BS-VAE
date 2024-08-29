@@ -1,0 +1,13 @@
+__pycache__
+dataset
+result
+test_result
+runs
+extract*
+commands*
+result*
+*.gif
+params
+.vscode
+test.py
+plot.py
